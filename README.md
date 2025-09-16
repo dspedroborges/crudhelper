@@ -10,7 +10,7 @@ The developer only needs to define which fields will exist and create the functi
 
 # Preview
 
-Visit [CRUD Helper](https://www.google.com) for a demo.
+Visit [CRUD Helper](https://crudhelper.vercel.app/) for a demo.
 
 # Usage
 
